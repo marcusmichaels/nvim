@@ -12,4 +12,4 @@ lspconf.eslint.setup{
 }
 
 -- tsserver: npm install -g typescript-language-server typescript
-lspconf.tsserver.setup{}
+lspconf.ts_ls.setup{}
